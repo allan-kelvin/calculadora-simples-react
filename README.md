@@ -32,5 +32,5 @@ $ npm run dev
 ## Tela dos 3 exercicios
 
 <div> 
- <img src="./src/imgs/tela.png">
+ <img src="./src/assets/tela-calculadora.png">
 </div>
